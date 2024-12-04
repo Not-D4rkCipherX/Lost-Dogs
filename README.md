@@ -69,6 +69,9 @@ nano .env
 ```shell
 chmod +x install.sh
 ```
+```shell
+npm install
+```
 ## IF YOU WANT TO USE QUERY ID THEN:
 ```shell
 nano queryIds.json
