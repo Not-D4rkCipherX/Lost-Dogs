@@ -32,6 +32,43 @@
 
 ## Installation
 
+## FOR TERMUX 
+```shell
+pkg update && pkg upgrade -y
+```
+```shell
+pkg install python rust git -y
+```
+```shell
+pkg install nodejs-lts
+```
+```shell
+pkg install nano
+```
+```shell
+git clone https://github.com/Not-D4rkCipherX/Lost-Dogs.git
+```
+```shell
+cd Lost-Dogs
+```
+```shell
+npm install
+```
+```shell
+cp .env-example .env
+```
+```shell
+nano .env
+```
+## IF YOU WANT TO USE QUERY ID THEN:
+```shell
+nano queryIds.json
+```
+```shell
+node index.js
+```
+
+
 You can download [**Repository**](https://github.com/FreddyWhest/LostDogsBot) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
