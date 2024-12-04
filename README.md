@@ -46,19 +46,28 @@ pkg install nodejs-lts
 pkg install nano
 ```
 ```shell
+mkdir ~/.gyp && echo "{'variables':{'android_ndk_path':''}}" > ~/.gyp/include.gypi
+```
+```shell
+npm install dotenv
+```
+```shell
+npm install moment
+```
+```shell
 git clone https://github.com/Not-D4rkCipherX/Lost-Dogs.git
 ```
 ```shell
 cd Lost-Dogs
 ```
 ```shell
-npm install
-```
-```shell
 cp .env-example .env
 ```
 ```shell
 nano .env
+```
+```shell
+chmod +x install.sh
 ```
 ## IF YOU WANT TO USE QUERY ID THEN:
 ```shell
