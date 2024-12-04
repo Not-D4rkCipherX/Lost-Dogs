@@ -7,7 +7,7 @@ const banner = `
 ╚═══╝╚══╝╚══╝ ╚═╝╚═══╝╚══╝╚═╗║╚══╝╚═══╝╚══╝ ╚═╝
                           ╔═╝║                 
                           ╚══╝ 
-© Freddy Bots  
+@D4rkCipherX  
 
 Starting bot.......
 `;
